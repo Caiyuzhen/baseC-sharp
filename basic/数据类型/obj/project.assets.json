@@ -8,25 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/bytedance/.nuget/packages/": {}
+    "/Users/aic/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/数据类型.csproj",
+      "projectUniqueName": "/Users/aic/Desktop/baseC-sharp/basic/数据类型/数据类型.csproj",
       "projectName": "数据类型",
-      "projectPath": "/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/数据类型.csproj",
-      "packagesPath": "/Users/bytedance/.nuget/packages/",
-      "outputPath": "/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/obj/",
+      "projectPath": "/Users/aic/Desktop/baseC-sharp/basic/数据类型/数据类型.csproj",
+      "packagesPath": "/Users/aic/.nuget/packages/",
+      "outputPath": "/Users/aic/Desktop/baseC-sharp/basic/数据类型/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/bytedance/.nuget/NuGet/NuGet.Config"
+        "/Users/aic/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
