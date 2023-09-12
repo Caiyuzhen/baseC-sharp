@@ -1,0 +1,15 @@
+/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/obj/Debug/net7.0/数据类型.csproj.AssemblyReference.cache
+/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/obj/Debug/net7.0/数据类型.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/obj/Debug/net7.0/数据类型.AssemblyInfoInputs.cache
+/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/obj/Debug/net7.0/数据类型.AssemblyInfo.cs
+/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/obj/Debug/net7.0/数据类型.csproj.CoreCompileInputs.cache
+/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/bin/Debug/net7.0/数据类型
+/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/bin/Debug/net7.0/数据类型.deps.json
+/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/bin/Debug/net7.0/数据类型.runtimeconfig.json
+/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/bin/Debug/net7.0/数据类型.dll
+/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/bin/Debug/net7.0/数据类型.pdb
+/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/obj/Debug/net7.0/数据类型.dll
+/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/obj/Debug/net7.0/refint/数据类型.dll
+/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/obj/Debug/net7.0/数据类型.pdb
+/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/obj/Debug/net7.0/数据类型.genruntimeconfig.cache
+/Users/bytedance/Desktop/baseC-sharp/basic/数据类型/obj/Debug/net7.0/ref/数据类型.dll
